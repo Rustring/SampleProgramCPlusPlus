@@ -12,13 +12,12 @@ Then run the command prompt and first
 cd <Your directory> 
 ```
 You can find your directory by going in the file explorer's path bar
-
 Than write the following the execute your program
 ```sh
 <program>.exe
 ```
 # How to Use (Linux)
-Download from the latest releases section (of your program) and open your terminal emulator and run the commands in the programs directory
+Download from the latest releases section (of your program) and open bash and run the commands in the programs directory
 ```sh
 $ chmod a+x <program>
 ```
