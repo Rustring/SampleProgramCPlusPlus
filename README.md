@@ -21,9 +21,9 @@ Than write the following the execute your program
 Download from the latest releases section (of your program) and open your terminal emulator and run the commands in the programs directory
 ```sh
 $ chmod a+x <program>
-
+```
 This make your program executable, then run the following command to execute your program
-
+```sh
 $ ./<program>
 ```
 
