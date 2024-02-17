@@ -1,4 +1,4 @@
-# SampleProgramC++
+# SampleProgramwC++
 Simple C++ programs for all kinds of stuff (Yeah there will be more programs in the future)
 
 # How to Use
