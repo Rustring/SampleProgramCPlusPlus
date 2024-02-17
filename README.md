@@ -11,8 +11,8 @@ Then run the command prompt and first
 ```sh
 cd <Your directory> 
 ```
-You can find your directory by going in the file explorer's path bar
-Than write the following the execute your program
+You can find your directory by going in the file explorer's path bar then write the following the execute your program
+
 ```sh
 <program>.exe
 ```
